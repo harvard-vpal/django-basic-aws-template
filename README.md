@@ -38,4 +38,7 @@ eb init
 
 # deploy to amazon
 eb create 
+
+# open app
+eb open
 ```
